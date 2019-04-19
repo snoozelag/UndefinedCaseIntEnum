@@ -1,2 +1,2 @@
-# UndefinedCaseIntEnum
- It is an enumeration type that also corresponds to undefined integers.
+# UndefinedCaseIntEnumSample
+An enum sample that can have an undefined integer rawValue.
